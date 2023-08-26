@@ -86,14 +86,14 @@
         }
       ],
       "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/188159EA-4894-40B8-B095-65605AA33101.gif",
-      "Name": "Apple Icon",
-      "Caption": "First of all thanks to @plplpmmmmh for sharing the file.The theme set is quite nice. It took me to fix it and fix it to the lock icon file. So beautiful.",
+      "Name": "Apple Lock",
+      "Caption": "First of all thanks to @plplpmmmmh for sharing the file.The theme set is quite nice. It took me some time to fix it. So beautiful.",
       "Screenshot": [
         "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/screenshot.png"
       ],
       "MinIOSVersion": "15.0",
       "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/header.jpg",
-      "Description": "Change default Face ID icon to Apple icon 🍎"
+      "Description": "Change default Lock to Apple icon 🍎"
     },
     {
       "Author": {
@@ -109,7 +109,7 @@
       "MinIOSVersion": "15.0",
       "PackageID": "com.cggio.doremonicon",
       "Name": "Doremon Icon",
-      "Description": "Change Face ID icon default to Doremon icon 🥰",
+      "Description": "Doremon Lock 🥰",
       "Category": "Lock Screen",
       "Icon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/Face%20ID%20icon%20Doremon/Icon.png",
       "HeaderImage": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/Face%20ID%20icon%20Doremon/DA4168CB-8D9E-4211-937B-13402715D3C9.PNG",
@@ -135,7 +135,7 @@
         ]
       },
       "Name": "Galatic Sky",
-      "Description": "Change default passcode & dialer to Galatic Sky",
+      "Description": "Change Default Passcode & Dialer theme to Galatic Sky",
       "Category": "Lock Screen",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.9",
@@ -171,7 +171,7 @@
         ]
       },
       "Name": "Customize Notification",
-      "Description": "Change Customize Notification Text",
+      "Description": "Customise 'No Older Notifications' text",
       "Category": "Notification",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.8",
@@ -303,7 +303,7 @@
         ]
       },
       "Name": "Quick Sand Font 16",
-      "Description": "Change default Apple font to Quick Sand font",
+      "Description": "Change default system font to QuickSand",
       "Category": "Font",
       "MinIOSVersion": "16.0",
       "MaxIOSVersion": "16.9",
