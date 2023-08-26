@@ -1,6 +1,6 @@
 {
-  "RepositoryName": "🇻🇳 Scarlet Tips 🇻🇳",
-  "RepositoryDescription": "Tweaks For MDC/KFD Devices ☃️",
+  "RepositoryName": "Scarlet Tips",
+  "RepositoryDescription": "Proudly Vietnamese 🇻🇳",
   "RepositoryAuthor": "Hùng Anhh ❤️ ft CG Gió 🇻🇳",
   "RepositoryIcon": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/iconrepo.jpeg",
   "RepositoryWebsite": "https://github.com/sadending-ios/sadending.github.io",
@@ -11,11 +11,11 @@
       "Links": [
         {
           "Label": "Hùng Anhh ❤️",
-          "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+          "Link": "https://www.facebook.com/100013250296791"
         },
         {
           "Label": "CG Gió 🇻🇳",
-          "Link": "https://www.facebook.com/MinhThinh14021997?mibextid=LQQJ4d"
+          "Link": "https://www.facebook.com/MinhThinh14021997"
         }
       ]
     },
@@ -53,11 +53,11 @@
         "Links": [
           {
             "Label": "Hùng Anhh ❤️",
-            "Link": "https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d"
+            "Link": "https://www.facebook.com/100013250296791"
           },
           {
             "Label": "CG Gió 🇻🇳",
-            "Link": "https://www.facebook.com/MinhThinh14021997?mibextid=LQQJ4d"
+            "Link": "https://www.facebook.com/MinhThinh14021997"
           }
         ]
       },
@@ -119,7 +119,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Pakage": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Apple%20Icon%20Tweak/Face%20ID%20icon%20Doremon/com.cggio.doremonicon.misaka"
         }
       ]
@@ -149,7 +149,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Galatic%20Sky/com.cggio.galaticsky.misaka"
         },
         {
@@ -186,12 +186,12 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/com.cggio.customizenotification.misaka"
         },
         {
           "Version": "1.1",
-          "Description": "Support ios 15.0-15.8",
+          "Description": "Support for iOS 15.0-15.8",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/Version%201.1/com.cggio.customizenotification.misaka"
         }
       ],
@@ -223,7 +223,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Notification/16/com.cggio.customizenotification16.misaka"
         }
       ],
@@ -254,7 +254,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Lock%20Screen%20and%20Passcode/Demo/Lock%20Screen/com.cggio.customizelockscreen.misaka"
         }
       ],
@@ -271,7 +271,7 @@
         ]
       },
       "Name": "Quick Sand Font",
-      "Description": "Change default Apple font to Quick Sand font",
+      "Description": "Change default system font to QuickSand",
       "Category": "Font",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.9",
@@ -286,7 +286,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/15/Version/com.cggio.quicksandfont.misaka"
         }
       ],
@@ -318,7 +318,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Quick%20Sand%20Font/16/com.cggio.quicksandfont16.misaka"
         }
       ],
@@ -338,8 +338,8 @@
           }
         ]
       },
-      "Name": "LS lsoneui",
-      "Description": "Change default Clock font Apple to LS lsoneui",
+      "Name": "LS OneUI Stripe",
+      "Description": "Change default iOS Clock Font to Stripe",
       "Category": "Font",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.9",
@@ -352,7 +352,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/LS%20lsoneui/Version/15/com.p0s3id0n.lsoneui15.misaka"
         }
       ],
@@ -372,8 +372,8 @@
           }
         ]
       },
-      "Name": "LS lsoneui 16",
-      "Description": "Change default Clock font Apple to LS lsoneui",
+      "Name": "LS OneUI Stripe",
+      "Description": "Change default iOS Clock Font to Stripe",
       "Category": "Font",
       "MinIOSVersion": "16.0",
       "MaxIOSVersion": "16.9",
@@ -386,7 +386,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/LS%20lsoneui/Version/16/com.p0s3id0n.lsoneui16.misaka"
         }
       ],
@@ -403,7 +403,7 @@
         ]
       },
       "Name": "Customize Font",
-      "Description": "Change default Font Apple to font you want",
+      "Description": "Change default iOS Fonts to anything you want",
       "Category": "Font",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.9",
@@ -417,7 +417,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Version/15/com.cggio.customizefont15.misaka"
         },
         {
@@ -439,7 +439,7 @@
         ]
       },
       "Name": "Customize Font 16",
-      "Description": "Change default Font Apple to font you want",
+      "Description": "Change default iOS Fonts to anything you want",
       "Category": "Font",
       "MinIOSVersion": "16.0",
       "MaxIOSVersion": "16.9",
@@ -453,7 +453,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Description": "Frist tweak",
+          "Description": "First tweak",
           "Package": "https://github.com/sadending-ios/sadending.github.io/raw/main/Misaka%20Tweaks/Ringtones%20Customer/Customize%20Font/Version/15/16/com.cggio.customizefont16.misaka"
         }
       ],
