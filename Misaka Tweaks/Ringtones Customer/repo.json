@@ -135,7 +135,7 @@
         ]
       },
       "Name": "Galatic Sky",
-      "Description": "Change Default Passcode & Dialer theme to Galatic Sky",
+      "Description": "Change Passcode & Dialer theme to Galatic Sky",
       "Category": "Lock Screen",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.9",
@@ -171,7 +171,7 @@
         ]
       },
       "Name": "Customize Notification",
-      "Description": "Customise 'No Older Notifications' text",
+      "Description": "Customise 'No Older Notifications' Text",
       "Category": "Notification",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.8",
@@ -208,7 +208,7 @@
         ]
       },
       "Name": "Customize Notification IOS 16",
-      "Description": "Customise 'No Older Notifications' text",
+      "Description": "Customise 'No Older Notifications' Text",
       "Category": "Notification",
       "MinIOSVersion": "16.0",
       "MaxIOSVersion": "16.9",
@@ -240,7 +240,7 @@
         ]
       },
       "Name": "Customize Lock Screen",
-      "Description": "Change Customize Lock Screen",
+      "Description": "Change Lock Screen Text",
       "Category": "Lock Screen",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "15.8",
